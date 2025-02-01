@@ -1,1 +1,0 @@
-# variacion_temp.py
